@@ -1,0 +1,22 @@
+{
+  "name": "learning_typescript",
+  "version": "0.0.1",
+  "description": "I will learn TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-jcb/Learning-TypeScript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Anthony-jcb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-jcb/Learning-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Anthony-jcb/Learning-TypeScript#readme"
+}
